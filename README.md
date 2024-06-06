@@ -1,11 +1,9 @@
 # python_basic_3
+## python programming for data science application
 
-Hello Git
+## git command
+### git add 파일명
+### git commit -m "message"
+### git push 
 
-git add .
-git commit -m "message"
-<<<<<<< HEAD
-git push# python_basic_3
-=======
-git push
->>>>>>> 79b3961 (UPDATED: README.me)
+
